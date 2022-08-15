@@ -1,0 +1,14 @@
+{
+  "root": "packages/nxenforceboundaries",
+  "projectType": "library",
+  "sourceRoot": "packages/nxenforceboundaries",
+  "targets": {
+    "test": {
+      "executor": "@nx-go/nx-go:test"
+    },
+    "lint": {
+      "executor": "@nx-go/nx-go:lint"
+    }
+  },
+  "tags": []
+}

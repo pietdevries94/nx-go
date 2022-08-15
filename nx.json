@@ -33,5 +33,6 @@
   "workspaceLayout": {
     "appsDir": "e2e",
     "libsDir": "packages"
-  }
+  },
+  "plugins": ["@nx-go/nx-go"]
 }
